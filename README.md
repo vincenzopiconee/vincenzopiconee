@@ -20,16 +20,23 @@ Currently pursuing a **Double Master of Science** in **Computer Science & Digita
 
 ---
 
-## Selected Repositories & Engineering Portfolio
+## Selected Projects
 
-| Project | Overview | Stack | Links |
-| :--- | :--- | :--- | :---: |
-| **[DuoSigna](https://github.com/vincenzopiconee/DuoSigna)** | Real-time ASL learning platform with 3D tracking & Llama 3.3 voice tutor | Python, FastAPI, MediaPipe, Docker, GCP | [Demo](https://duo-signa-rose.vercel.app) [Code](https://github.com/vincenzopiconee/DuoSigna) |
-| **[LLMs in Fabula](https://github.com/vincenzopiconee/LLMsInFabula)** | AI-orchestrated tabletop deduction game with distributed FSM & Gemini Flash | Flutter, Dart, Firebase RTDB, Gemini API | [Demo](https://llminfabula-1.web.app/) [Code](https://github.com/vincenzopiconee/LLMsInFabula) |
-| **[SeriesTime](https://github.com/vincenzopiconee/SeriesTime)** | TV series tracking platform built to Bending Spoons specs with 332 tests | Flutter, Dart, Firestore, TMDB API | [Demo](https://seriestime-data.web.app) [Code](https://github.com/vincenzopiconee/SeriesTime) |
-| **[Trustfall](https://github.com/vincenzopiconee/Trustfall)** | Asymmetric co-op iOS game with GameKit P2P sync & Agora RTC VoIP | Swift, SwiftUI, GameKit, Agora RTC | [Code](https://github.com/vincenzopiconee/Trustfall) |
-| **[Beeep](https://github.com/vincenzopiconee/Beeep)** | Serverless P2P iOS party game with Bonjour mesh & dual-screen projection | Swift, SwiftUI, MultipeerConnectivity | [Code](https://github.com/vincenzopiconee/Beeep) |
-| **[SuperHeroFit](https://github.com/vincenzopiconee/SuperHeroFit)** | Gamified fitness tracker with HealthKit step queries & SwiftData persistence | Swift, SwiftUI, HealthKit, SwiftData | [Code](https://github.com/vincenzopiconee/SuperHeroFit) |
-| **[Pirate Pain ML](https://github.com/vincenzopiconee/pirate-pain-classification)** | Multivariate time-series deep learning ensemble (0.9534 F1 from scratch) | PyTorch, BiGRU, Attention, Optuna | [Code](https://github.com/vincenzopiconee/pirate-pain-classification) |
-| **[Cancer ViT](https://github.com/vincenzopiconee/cancer-image-classification)** | Breast cancer histopathology subtyping via Vision Transformers & Grad-CAM | PyTorch, Vision Transformers, OpenCV | [Code](https://github.com/vincenzopiconee/cancer-image-classification) |
-| **[Artist Management](https://github.com/vincenzopiconee/artist-management-system)** | Enterprise booking & auditing desktop system implementing BCE, DAO & JUnit | Java, Java Swing, MySQL, JDBC, JUnit | [Code](https://github.com/vincenzopiconee/artist-management-system) |
+### AI & Cloud Platforms
+* **[DuoSigna](https://github.com/vincenzopiconee/DuoSigna)** — Real-time ASL learning platform pairing 3D tracking with an autonomous Llama 3.3 voice tutor. `Python`, `FastAPI`, `MediaPipe`, `Docker`, `GCP` | [Live Demo](https://duo-signa-rose.vercel.app)
+* **[LLMs in Fabula](https://github.com/vincenzopiconee/LLMsInFabula)** — AI-orchestrated tabletop deduction game driven by a distributed FSM and Gemini Flash. `Flutter`, `Dart`, `Firebase RTDB`, `Gemini API` | [Live Demo](https://llminfabula-1.web.app/)
+
+### Native Apple Platforms & Low-Latency Systems
+* **[Trustfall](https://github.com/vincenzopiconee/Trustfall)** — Asymmetric cooperative iOS game with GameKit P2P synchronization and Agora RTC VoIP routing. `Swift`, `SwiftUI`, `GameKit`, `Agora RTC`
+* **[Beeep](https://github.com/vincenzopiconee/Beeep)** — Serverless local P2P party game via Bonjour mesh networking and external dual-screen projection. `Swift`, `SwiftUI`, `MultipeerConnectivity`
+* **[SuperHeroFit](https://github.com/vincenzopiconee/SuperHeroFit)** — Gamified fitness tracking app integrating HealthKit metrics aggregation and reactive SwiftData persistence. `Swift`, `SwiftUI`, `HealthKit`, `SwiftData`
+
+### Cross-Platform & Mobile
+* **[SeriesTime](https://github.com/vincenzopiconee/SeriesTime)** — TV series tracking application built to Bending Spoons specifications with 332 automated tests. `Flutter`, `Dart`, `Firestore`, `TMDB API` | [Live Demo](https://seriestime-data.web.app)
+
+### Machine Learning & Computer Vision
+* **[Pirate Pain Classification](https://github.com/vincenzopiconee/pirate-pain-classification)** — Multivariate time-series deep learning ensemble achieving a 0.9534 test F1-score from scratch. `PyTorch`, `BiGRU`, `Attention`, `Optuna`
+* **[Cancer Image Classification](https://github.com/vincenzopiconee/cancer-image-classification)** — Whole Slide Image breast cancer subtyping via Vision Transformers and Grad-CAM interpretability. `PyTorch`, `Vision Transformers`, `OpenCV`
+
+### Enterprise Software Architecture
+* **[Artist Management System](https://github.com/vincenzopiconee/artist-management-system)** — Agency booking and financial auditing desktop application implementing BCE, DAO, and JUnit suites. `Java`, `Java Swing`, `MySQL`, `JDBC`, `JUnit`
