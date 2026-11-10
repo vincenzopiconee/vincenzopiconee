@@ -39,4 +39,4 @@ Currently pursuing a **Double Master of Science** in **Computer Science & Digita
 * **[Cancer Image Classification](https://github.com/vincenzopiconee/cancer-image-classification)** — Whole Slide Image breast cancer subtyping via Vision Transformers and Grad-CAM interpretability. `PyTorch`, `Vision Transformers`, `OpenCV`
 
 ### Enterprise Software Architecture
-* **[Artist Management System](https://github.com/vincenzopiconee/artist-management-system)** — Agency booking and financial auditing desktop application implementing BCE, DAO, and JUnit suites. `Java`, `Java Swing`, `MySQL`, `JDBC`, `JUnit`
+* **[Artist Management System](https://github.com/vincenzopiconee/artist-management-software-system)** — Agency booking and financial auditing desktop application implementing BCE, DAO, and JUnit suites. `Java`, `Java Swing`, `MySQL`, `JDBC`, `JUnit`
